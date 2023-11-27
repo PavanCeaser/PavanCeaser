@@ -1,15 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width ="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Finstagram-stories-can-now-include-gifs-lakshya-kumawat&psig=AOvVaw3-ZDkjzy-AoXsYShgc8Kvl&ust=1701176496337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICahLie5IIDFQAAAAAdAAAAABAF">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pavango31233371" target="blank"><img src="https://img.shields.io/twitter/follow/pavango31233371?logo=twitter&style=for-the-badge" alt="pavango31233371" /></a> </p>
 
 - 🌱 I’m currently learning **Angular js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/pavango31233371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavango31233371" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavan hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan hl" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/pavanhl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pavanhl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
