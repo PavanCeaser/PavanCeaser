@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pavango31233371" target="blank"><img src="https://img.shields.io/twitter/follow/pavango31233371?logo=twitter&style=for-the-badge" alt="pavango31233371" /></a> </p>
 
-- 🌱 I’m currently learning **Angular js**
+- 🌱 I’m currently learning **JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
